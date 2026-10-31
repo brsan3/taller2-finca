@@ -10,7 +10,11 @@ public class Demo {
             new Animal("AN-001", "Bovino", 420.0, 1.85),
             // RETO - Activo propio de Cotopaxi / Pujilí
             new Cultivo("CU-002", "Brócoli Pujilí", 2.0, 1450.0),
-            new Animal("AN-002", "Ovino Criollo", 45.0, 3.20)
+            new Animal("AN-002", "Ovino Criollo", 45.0, 3.20),
+            // Reto - Activo propio de Guayas / el triunfo
+            new Cultivo("CU-002", "Banano en El Triunfo", 4.0, 1500.0)
+
+
         );
 
         double total = 0;
