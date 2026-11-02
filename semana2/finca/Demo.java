@@ -13,7 +13,9 @@ public class Demo {
             // Reto - Activo propio de Guayas / el triunfo
             new Cultivo("CU-002", "Banano en El Triunfo", 4.0, 1500.0),
             // reto - Activo propio de guayas / santa lucia
-            new Cultivo("CU-004", "Mango en Santa Lucía", 3.0, 1200.0)
+            new Cultivo("CU-004", "Mango en Santa Lucía", 3.0, 1200.0),
+                // reto - Activo propio de Pichincha / Quito
+            new Cultivo("CU-004", "Papa en Pichincha", 2.0, 1800.0)
 
 
         );
