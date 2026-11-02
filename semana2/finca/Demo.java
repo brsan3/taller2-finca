@@ -13,9 +13,9 @@ public class Demo {
             // Reto - Activo propio de Guayas / el triunfo
             new Cultivo("CU-002", "Banano en El Triunfo", 4.0, 1500.0),
             // reto - Activo propio de guayas / santa lucia
-            new Cultivo("CU-004", "Mango en Santa Lucía", 3.0, 1200.0)
-
-
+            new Cultivo("CU-004", "Mango en Santa Lucía", 3.0, 1200.0),
+            // reto - Activo propio de guayas / duran
+            new Animal("AN-003", "Camarón en Durán", 100.0, 6.0)
         );
 
         double total = 0;
