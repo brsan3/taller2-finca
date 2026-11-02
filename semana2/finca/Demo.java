@@ -15,7 +15,13 @@ public class Demo {
             // reto - Activo propio de guayas / santa lucia
             new Cultivo("CU-004", "Mango en Santa Lucía", 3.0, 1200.0),
             // reto - Activo propio de guayas / duran
-            new Animal("AN-003", "Camarón en Durán", 100.0, 6.0)
+            new Animal("AN-003", "Camarón en Durán", 100.0, 6.0),
+
+                // reto - Activo propio de Pichincha / Quito
+            new Cultivo("CU-004", "Papa en Pichincha", 2.0, 1800.0)
+
+
+
         );
 
         double total = 0;
